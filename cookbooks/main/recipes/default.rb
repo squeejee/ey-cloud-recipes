@@ -8,7 +8,7 @@ end
 # require_recipe "couchdb"
 
 # uncomment to turn your instance into an integrity CI server
-#require_recipe "integrity"
+require_recipe "integrity"
 
 # uncomment to turn use the MBARI ruby patches for decreased memory usage and better thread/continuationi performance
 # require_recipe "mbari-ruby"
